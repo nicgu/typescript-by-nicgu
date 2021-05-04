@@ -1,2 +1,2 @@
 # typescript-by-nicgu
-How I learned Rust
+How I learned TypeScript
